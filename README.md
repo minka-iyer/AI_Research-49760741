@@ -33,15 +33,17 @@ Each section below links directly to its files for easier navigation.
 ---
 
 ## 📂 References
-- [reference_1.pdf](References/reference_1.pdf)  
-- [reference_2.pdf](References/reference_2.pdf)  
-- [reference_3.pdf](References/reference_3.pdf)  
+- [reference_1.pdf](https://github.com/minka-iyer/AI_Research-49760741/blob/main/References/reference_1.pdf)
+- [reference_2.pdf](https://github.com/minka-iyer/AI_Research-49760741/blob/main/References/reference_2.pdf)
+- [reference_3.pdf](https://github.com/minka-iyer/AI_Research-49760741/blob/main/References/reference_3.pdf) 
 
 ---
 
 ## 📂 Survey data
-*(add links when survey data files are added to this folder)*
-
+ - [Cleaned-data.csv](https://github.com/minka-iyer/AI_Research-49760741/blob/main/Survey%20data%20/Cleaned_Data.csv)
+ - [Additional-data.csv](https://github.com/minka-iyer/AI_Research-49760741/blob/main/Survey%20data%20/additional_Data.csv)
+ - [Raw_Data](https://github.com/minka-iyer/AI_Research-49760741/blob/main/Survey%20data%20/additional_Data.csv)
+ - [Survey_qs.docx](https://github.com/minka-iyer/AI_Research-49760741/blob/main/Survey%20data%20/survey%20qs.docx)
 ---
 
 ## Other Files
